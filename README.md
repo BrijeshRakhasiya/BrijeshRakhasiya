@@ -1,5 +1,7 @@
 <h1 align="left">Hello 👋, I'm Brijesh Rakhasiya</h1>
 
+ [![Profile Views](https://komarev.com/ghpvc/?username=BrijeshRakhasiya&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/BrijeshRakhasiya)
+
 
 # 💫 About Me
 
