@@ -10,7 +10,7 @@
 🌱 I’m currently learning advanced deep learning, NLP, and MLOps concepts.<br>
 💬 Ask me about Python, machine learning algorithms, data preprocessing, model evaluation, and deploying ML models.<br>
 📫 How to reach me: brijeshrakhasiya.aiml@gmail.com or [LinkedIn](https://www.linkedin.com/in/brijesh-rakhasiya-bba776289/)<br>
-⚡ Fun fact: I believe every problem is an opportunity for progress!
+⚡ Fun fact: I believe every problem is progress!
 
 
 
