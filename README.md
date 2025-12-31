@@ -5,13 +5,12 @@
 
 # 💫 About Me
 
-🔭 I’m currently working on machine learning projects to strengthen my practical skills and portfolio.<br>
-👯 I’m looking to collaborate on open source AI/ML and data science projects.<br>
-🌱 I’m currently learning advanced deep learning, NLP, and MLOps concepts.<br>
-💬 Ask me about Python, machine learning algorithms, data preprocessing, model evaluation, and deploying ML models.<br>
-📫 How to reach me: brijeshrakhasiya.aiml@gmail.com or [LinkedIn](https://www.linkedin.com/in/brijesh-rakhasiya-bba776289/)<br>
-⚡ Fun fact: I believe every problem is progress!
-
+🔭 I build AI and machine learning systems with attention to correctness, reliability, and practical constraints.  
+👯 I am open to collaborating on well-scoped, engineering-focused AI/ML projects and research-oriented systems.  
+🌱 I am deepening my understanding of generative AI, agentic workflows, and ML system design.  
+💬 Ask me about Python, machine learning fundamentals, NLP pipelines, model evaluation, and system-level tradeoffs.  
+📫 Reach me at brijeshrakhasiya.aiml@gmail.com or [LinkedIn](https://www.linkedin.com/in/brijesh-rakhasiya-bba776289/)  
+⚡ I value steady progress through problem-solving and disciplined iteration.
 
 
 ## 🌐 Socials:
