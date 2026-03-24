@@ -89,7 +89,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BrijeshRakhasiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BrijeshRakhasiya&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrijeshRakhasiya&theme=dark)](https://git.io/streak-stats)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrijeshRakhasiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
